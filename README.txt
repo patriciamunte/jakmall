@@ -1,0 +1,3 @@
+-Buka direktori project Jakmall
+-Buka command prompt lalu ketikkan: php artisan serve
+-Buka browser lalu masukkan url: localhost:8000
